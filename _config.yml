@@ -1,7 +1,7 @@
 name: "Chloe's Services"
 favicon: null
-layout_spectrum: 0.22186780162155628
-typography_spectrum: 0.1945870982017368
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6236332668922842
-  lightness: 0.585109883453697
+  brandStrength: 0.5
+  lightness: 0
   saturation: 0.6745079993270338
   rhythmicContrast: 0.2927125559654087
 purpose: []
