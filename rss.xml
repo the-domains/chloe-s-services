@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Chloe's Services]]></title>
         <description><![CDATA[Chloe's Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thegrid.chloesservices.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:57:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 19:08:03 GMT</lastBuildDate>
+        <atom:link href="http://thegrid.chloesservices.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b43022c-b63c-4df4-bf23-109070add411.png">]]></description>
-            <link>undefined5bd72d64-a696-46ef-aaed-4f55a0967ecd/index.html</link>
+            <link>http://thegrid.chloesservices.com/5bd72d64-a696-46ef-aaed-4f55a0967ecd/index.html</link>
             <guid isPermaLink="false">5bd72d64-a696-46ef-aaed-4f55a0967ecd</guid>
-            <pubDate>Mon, 15 Feb 2016 18:57:50 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 19:07:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
