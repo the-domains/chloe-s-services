@@ -2,6 +2,7 @@ name: "Chloe's Services"
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: "Chloe's Services"
 cta:
   domain: null
   bucket: null
